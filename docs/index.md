@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 点击进入
-      link: /get-started
+      link: /my-projects/eric-ui/index
 
 features:
   - icon: 📚
